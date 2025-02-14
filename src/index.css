@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    font-family: "Nunito Sans", serif;  
+  }
+  .leaflet-routing-container.leaflet-bar.leaflet-control {
+    display: none;
+}
